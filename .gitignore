@@ -1,0 +1,24 @@
+# Ignore binary images and bootloader/kernel binaries
+*.bin
+*.img
+*.elf
+*.iso
+
+# Ignore object files and compiled output
+*.o
+*.obj
+
+# Ignore compiled libraries
+*.lib
+*.a
+*.so
+*.dll
+
+# Ignore temporary files and editor backups
+*~
+*.swp
+*.tmp
+*.log
+
+# Ignore build directories (if any)
+bin/
