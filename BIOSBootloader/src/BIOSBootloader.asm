@@ -17,7 +17,7 @@ done_printing:
 hang:
     jmp hang
 
-hello_msg db 'Hello, World!', 0
+hello_msg db 'Hello Bootloader!', 0
 
 times 510 - ($ - $$) db 0
 dw 0xAA55
