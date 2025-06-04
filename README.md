@@ -2,6 +2,11 @@
 
 Just an OS dev side project I'm working on.
 
+# Progress Pictures
+
+VGA Graphics support in kernel:
+
+
 # Project Roadmap
 
 | Supported?  | OS Feature |
@@ -28,6 +33,9 @@ Just an OS dev side project I'm working on.
 - :triangular_flag_on_post: Next item in development
 
 # Build And Run Instructions
+
+Running the build script will give you info on any missing packages you may need.
+
 - Build and Run BIOSBootloader with Kernel (from root directory "LOS/"):
 ```bash
 ./buildBIOS.sh
