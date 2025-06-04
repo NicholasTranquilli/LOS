@@ -6,6 +6,7 @@ Just an OS dev side project I'm working on.
 
 VGA Graphics support in kernel:
 
+![image](https://github.com/user-attachments/assets/cfd9afb4-e396-4663-9a46-360e27509734)
 
 # Project Roadmap
 
